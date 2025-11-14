@@ -1,0 +1,14 @@
+/Users/maten/Documents/School/COIS 2020/Assignment2/Assignment2/bin/Debug/net9.0/Assignment2
+/Users/maten/Documents/School/COIS 2020/Assignment2/Assignment2/bin/Debug/net9.0/Assignment2.deps.json
+/Users/maten/Documents/School/COIS 2020/Assignment2/Assignment2/bin/Debug/net9.0/Assignment2.runtimeconfig.json
+/Users/maten/Documents/School/COIS 2020/Assignment2/Assignment2/bin/Debug/net9.0/Assignment2.dll
+/Users/maten/Documents/School/COIS 2020/Assignment2/Assignment2/bin/Debug/net9.0/Assignment2.pdb
+/Users/maten/Documents/School/COIS 2020/Assignment2/Assignment2/obj/Debug/net9.0/Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maten/Documents/School/COIS 2020/Assignment2/Assignment2/obj/Debug/net9.0/Assignment2.AssemblyInfoInputs.cache
+/Users/maten/Documents/School/COIS 2020/Assignment2/Assignment2/obj/Debug/net9.0/Assignment2.AssemblyInfo.cs
+/Users/maten/Documents/School/COIS 2020/Assignment2/Assignment2/obj/Debug/net9.0/Assignment2.csproj.CoreCompileInputs.cache
+/Users/maten/Documents/School/COIS 2020/Assignment2/Assignment2/obj/Debug/net9.0/Assignment2.dll
+/Users/maten/Documents/School/COIS 2020/Assignment2/Assignment2/obj/Debug/net9.0/refint/Assignment2.dll
+/Users/maten/Documents/School/COIS 2020/Assignment2/Assignment2/obj/Debug/net9.0/Assignment2.pdb
+/Users/maten/Documents/School/COIS 2020/Assignment2/Assignment2/obj/Debug/net9.0/Assignment2.genruntimeconfig.cache
+/Users/maten/Documents/School/COIS 2020/Assignment2/Assignment2/obj/Debug/net9.0/ref/Assignment2.dll

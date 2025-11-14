@@ -1,0 +1,14 @@
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartB - Open HT/bin/Debug/net9.0/PartB - Open HT
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartB - Open HT/bin/Debug/net9.0/PartB - Open HT.deps.json
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartB - Open HT/bin/Debug/net9.0/PartB - Open HT.runtimeconfig.json
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartB - Open HT/bin/Debug/net9.0/PartB - Open HT.dll
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartB - Open HT/bin/Debug/net9.0/PartB - Open HT.pdb
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartB - Open HT/obj/Debug/net9.0/PartB - Open HT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartB - Open HT/obj/Debug/net9.0/PartB - Open HT.AssemblyInfoInputs.cache
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartB - Open HT/obj/Debug/net9.0/PartB - Open HT.AssemblyInfo.cs
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartB - Open HT/obj/Debug/net9.0/PartB - Open HT.csproj.CoreCompileInputs.cache
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartB - Open HT/obj/Debug/net9.0/PartB - Open HT.dll
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartB - Open HT/obj/Debug/net9.0/refint/PartB - Open HT.dll
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartB - Open HT/obj/Debug/net9.0/PartB - Open HT.pdb
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartB - Open HT/obj/Debug/net9.0/PartB - Open HT.genruntimeconfig.cache
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartB - Open HT/obj/Debug/net9.0/ref/PartB - Open HT.dll

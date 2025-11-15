@@ -1,0 +1,15 @@
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartC - Huffman Code/bin/Debug/net9.0/PartC - Huffman Code
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartC - Huffman Code/bin/Debug/net9.0/PartC - Huffman Code.deps.json
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartC - Huffman Code/bin/Debug/net9.0/PartC - Huffman Code.runtimeconfig.json
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartC - Huffman Code/bin/Debug/net9.0/PartC - Huffman Code.dll
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartC - Huffman Code/bin/Debug/net9.0/PartC - Huffman Code.pdb
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartC - Huffman Code/obj/Debug/net9.0/PartC - Huffman Code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartC - Huffman Code/obj/Debug/net9.0/PartC - Huffman Code.AssemblyInfoInputs.cache
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartC - Huffman Code/obj/Debug/net9.0/PartC - Huffman Code.AssemblyInfo.cs
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartC - Huffman Code/obj/Debug/net9.0/PartC - Huffman Code.csproj.CoreCompileInputs.cache
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartC - Huffman Code/obj/Debug/net9.0/PartC - Huffman Code.sourcelink.json
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartC - Huffman Code/obj/Debug/net9.0/PartC - Huffman Code.dll
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartC - Huffman Code/obj/Debug/net9.0/refint/PartC - Huffman Code.dll
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartC - Huffman Code/obj/Debug/net9.0/PartC - Huffman Code.pdb
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartC - Huffman Code/obj/Debug/net9.0/PartC - Huffman Code.genruntimeconfig.cache
+/Users/maten/Documents/School/COIS 2020/Assignment2/PartC - Huffman Code/obj/Debug/net9.0/ref/PartC - Huffman Code.dll
